@@ -6,7 +6,6 @@
 
 LinkUp is a full-stack web application developed as part of my journey into web development. While currently in active development and not yet hosted publicly, this evolving project demonstrates growing proficiency with core web technologies through its implemented features and planned enhancements.
 
-![LinkUp Preview](https://via.placeholder.com/800x400.png?text=LinkUp+Preview+Coming+Soon)
 
 ## 🚀 Features
 
